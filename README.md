@@ -2,9 +2,9 @@
 
 # ⚡ AmyGraphics
 
-**50 Autonomous MCP Servers** for Cursor, Claude Code, Windsurf & AI Agents
+**60 Autonomous MCP Servers** for Cursor, Claude Code, Windsurf & AI Agents
 
-[![MCP Servers](https://img.shields.io/badge/MCP_Servers-50-22d3ee?style=for-the-badge)](https://mcp-hub.agentweb-hub.workers.dev)
+[![MCP Servers](https://img.shields.io/badge/MCP_Servers-60-22d3ee?style=for-the-badge)](https://mcp-hub.agentweb-hub.workers.dev)
 [![Smithery Quality](https://img.shields.io/badge/Smithery_Score-100%2F100-22c55e?style=for-the-badge)](https://smithery.ai)
 [![Cloudflare Edge](https://img.shields.io/badge/Cloudflare_Edge-Live_24%2F7-f38020?style=for-the-badge)](https://mcp-hub.agentweb-hub.workers.dev)
 
@@ -14,7 +14,7 @@
 
 ---
 
-> One suite. Every engineering discipline — and every business built on top of it. Web intelligence, AI agents, databases, security, mobile, games, video, e-commerce, SaaS launches, courses, agencies & personal brands — deployed on Cloudflare’s edge, copy-paste live in 30 seconds.
+> One suite. Every engineering discipline — and every business built on top of it. Web intelligence, AI agents, databases, security, mobile, games, video, e-commerce, SaaS launches, courses, agencies, personal brands, email deliverability, local SEO, support, sales, community, hiring, newsletters, pricing, partnerships & app growth — deployed on Cloudflare’s edge, copy-paste live in 30 seconds.
 
 ## 🌐 Web Intelligence
 
@@ -253,6 +253,68 @@
 
 ---
 
+## 📬 Email Deliverability
+
+| MCP Server | What it does |
+|---|---|
+| [`inboxforge-mcp`](https://github.com/AmyGraphics/inboxforge-mcp) | Email Deliverability, SPF/DKIM/DMARC, Inbox Warmup & Spam Fix |
+
+## 📍 Local SEO
+
+| MCP Server | What it does |
+|---|---|
+| [`localforge-mcp`](https://github.com/AmyGraphics/localforge-mcp) | Google Business Profile, Local Rankings, Reviews & Multi-Location SEO |
+
+## 🎧 Customer Support
+
+| MCP Server | What it does |
+|---|---|
+| [`supportforge-mcp`](https://github.com/AmyGraphics/supportforge-mcp) | Support Systems, Help Centers, Macros, AI Deflection & Retention-Driving CX |
+
+## 🤝 Sales
+
+| MCP Server | What it does |
+|---|---|
+| [`closeforge-mcp`](https://github.com/AmyGraphics/closeforge-mcp) | Sales Closing, Discovery Calls, Objection Handling, Proposals & Follow-Up Systems |
+
+## 👥 Community
+
+| MCP Server | What it does |
+|---|---|
+| [`communityforge-mcp`](https://github.com/AmyGraphics/communityforge-mcp) | Community Building, Discord/Slack Architecture, Engagement Loops & Monetization |
+
+## 🔍 Hiring
+
+| MCP Server | What it does |
+|---|---|
+| [`hireforge-mcp`](https://github.com/AmyGraphics/hireforge-mcp) | Hiring Systems, Job Descriptions, Structured Interviews, Onboarding & Retention |
+
+## 📰 Newsletters
+
+| MCP Server | What it does |
+|---|---|
+| [`newsletterforge-mcp`](https://github.com/AmyGraphics/newsletterforge-mcp) | Newsletter Growth, Welcome Sequences, Monetization & Owned-Audience Engines |
+
+## 🏷️ Pricing
+
+| MCP Server | What it does |
+|---|---|
+| [`pricingforge-mcp`](https://github.com/AmyGraphics/pricingforge-mcp) | Pricing Strategy, SaaS Tiers, Price Increases, Discounts & Monetization Economics |
+
+## 🔗 Partnerships
+
+| MCP Server | What it does |
+|---|---|
+| [`partnerforge-mcp`](https://github.com/AmyGraphics/partnerforge-mcp) | Affiliate Programs, B2B Partnerships, Influencer Deals & Channel Revenue |
+
+## 📲 App Store Optimization
+
+| MCP Server | What it does |
+|---|---|
+| [`asoforge-mcp`](https://github.com/AmyGraphics/asoforge-mcp) | App Store Optimization, ASO Keywords, App Rankings, Screenshots & App Growth |
+
+---
+
 ## 🚀 Connect any server in 30 seconds
 
 ```json
@@ -273,7 +335,7 @@ Full catalog with copy-paste configs: **[mcp-hub.agentweb-hub.workers.dev](https
 |------|-------|
 | Free | $0 — 10 requests/day |
 | Pro (single server) | $7.99 lifetime |
-| All-Access Suite (all 50+) | $14.99 lifetime |
+| All-Access Suite (all 60) | $14.99 lifetime |
 
 💳 [Gumroad (PayPal & Cards)](https://amygraphics.gumroad.com/l/mcp-pro) · 🪙 Solana USDC accepted
 
