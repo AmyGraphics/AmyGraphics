@@ -16,6 +16,45 @@
 
 > One suite. Every engineering discipline — and every business built on top of it. Web intelligence, AI agents, databases, security, mobile, games, video, e-commerce, SaaS launches, courses, agencies, personal brands, email deliverability, local SEO, support, sales, community, hiring, newsletters, pricing, partnerships & app growth — deployed on Cloudflare’s edge, copy-paste live in 30 seconds.
 
+## 🔴 NEW — 30 Servers Now Pull LIVE Data (v1.1)
+
+**Half the suite upgraded:** every server below now ships at least one tool returning **real, live data or real computation** — fetched at request time, **zero API keys needed**. Real prices, real DNS records, real on-chain state, real WCAG math.
+
+| Live Server | Real-data tool |
+|---|---|
+| [`agentweb-mcp`](https://github.com/AmyGraphics/agentweb-mcp) | native live suite: markdown extraction, tech-stack detection, PII masking |
+| [`deep-research-mcp`](https://github.com/AmyGraphics/deep-research-mcp) | search_wikipedia_live + native live search, arXiv & fact-checking |
+| [`rankforge-mcp`](https://github.com/AmyGraphics/rankforge-mcp) | native audit_page_seo live crawler |
+| [`asoforge-mcp`](https://github.com/AmyGraphics/asoforge-mcp) | analyze_live_app — real App Store data via iTunes API |
+| [`inboxforge-mcp`](https://github.com/AmyGraphics/inboxforge-mcp) | audit_domain_live — real SPF/DKIM/DMARC/MX via DNS-over-HTTPS |
+| [`secforge-mcp`](https://github.com/AmyGraphics/secforge-mcp) | audit_security_headers_live — real header scan of any URL |
+| [`typeforge-mcp`](https://github.com/AmyGraphics/typeforge-mcp) | infer_types_from_json — real type inference engine |
+| [`gitpulse-mcp`](https://github.com/AmyGraphics/gitpulse-mcp) | analyze_repo_live — real GitHub repo stats |
+| [`speedforge-mcp`](https://github.com/AmyGraphics/speedforge-mcp) | audit_page_weight_live — real page-weight & delivery audit |
+| [`privacyforge-mcp`](https://github.com/AmyGraphics/privacyforge-mcp) | audit_privacy_signals_live — real cookies, trackers & consent scan |
+| [`competitorforge-mcp`](https://github.com/AmyGraphics/competitorforge-mcp) | teardown_competitor_page_live — real positioning & tech fingerprint |
+| [`pricingforge-mcp`](https://github.com/AmyGraphics/pricingforge-mcp) | audit_pricing_page_live — real price extraction & dark-pattern scan |
+| [`commerceforge-mcp`](https://github.com/AmyGraphics/commerceforge-mcp) | audit_product_page_live — real schema & CRO audit |
+| [`cronforge-mcp`](https://github.com/AmyGraphics/cronforge-mcp) | parse_cron_expression — real parser computing next 5 UTC runs |
+| [`solana-radar-mcp`](https://github.com/AmyGraphics/solana-radar-mcp) | get_solana_network_status_live — real epoch, TPS & wallet balance via RPC |
+| [`authshield-mcp`](https://github.com/AmyGraphics/authshield-mcp) | audit_password_strength — real entropy & crack-time math |
+| [`scrapeforge-mcp`](https://github.com/AmyGraphics/scrapeforge-mcp) | scrape_page_live — real link map & extraction hints |
+| [`apisniper-mcp`](https://github.com/AmyGraphics/apisniper-mcp) | probe_api_endpoint_live — real latency, CORS & auth probe |
+| [`observforge-mcp`](https://github.com/AmyGraphics/observforge-mcp) | check_uptime_latency_live — 3 real timed samples + CDN fingerprint |
+| [`llmforge-mcp`](https://github.com/AmyGraphics/llmforge-mcp) | compare_llm_prices_live — real prices across 450+ models (OpenRouter) |
+| [`payforge-mcp`](https://github.com/AmyGraphics/payforge-mcp) | convert_currency_live — real ECB reference rates |
+| [`videoforge-mcp`](https://github.com/AmyGraphics/videoforge-mcp) | analyze_youtube_video_live — real metadata via official oEmbed |
+| [`newsletterforge-mcp`](https://github.com/AmyGraphics/newsletterforge-mcp) | audit_rss_feed_live — real cadence from actual timestamps |
+| [`careerforge-mcp`](https://github.com/AmyGraphics/careerforge-mcp) | score_resume_vs_job — real ATS keyword match scoring |
+| [`designforge-mcp`](https://github.com/AmyGraphics/designforge-mcp) | check_color_contrast — exact WCAG 2.1 spec math |
+| [`localforge-mcp`](https://github.com/AmyGraphics/localforge-mcp) | audit_local_business_schema_live — real JSON-LD & NAP audit |
+| [`brandforge-mcp`](https://github.com/AmyGraphics/brandforge-mcp) | check_brand_handle_live — real GitHub + DNS availability |
+| [`i18nforge-mcp`](https://github.com/AmyGraphics/i18nforge-mcp) | preview_locale_formats — real Intl engine output per locale |
+| [`auditforge-mcp`](https://github.com/AmyGraphics/auditforge-mcp) | scan_solidity_vulnerabilities — line-level static scan of your code |
+| [`dbforge-mcp`](https://github.com/AmyGraphics/dbforge-mcp) | lint_sql_schema — real DDL parse with ready-to-run index fixes |
+
+---
+
 ## 🌐 Web Intelligence
 
 | MCP Server | What it does |
